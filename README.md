@@ -1,0 +1,1 @@
+This repository demonstrates a common yet subtle bug in Python involving mutable default arguments. The function `function_with_uncommon_bug` unintentionally modifies its default argument, leading to unexpected behavior when called without an explicit argument. The solution demonstrates the correct way to handle mutable default arguments to avoid this issue.
